@@ -1,0 +1,20 @@
+fsm:
+  channel: '#dev'
+  members:
+    - alanfreer
+    - akbarbaig
+    - candicelauren
+    - dylan-qton
+    - Flacky
+    - ilmaruk
+    - isocra
+    - jamesglover
+    - johnline
+    - jon-simmonds
+    - karthikganta
+    - markqton
+    - paulfeaviour
+    - tapvolt
+  use_labels: true
+  exclude_labels:
+    - wip
