@@ -15,6 +15,7 @@ fsm:
     - markqton
     - paulfeaviour
     - tapvolt
+    - bradleymiles17
   use_labels: true
   exclude_labels:
     - wip
