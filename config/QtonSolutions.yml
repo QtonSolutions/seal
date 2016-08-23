@@ -14,8 +14,10 @@ fsm:
     - karthikganta
     - markqton
     - paulfeaviour
-    - tapvolt
+    - stephenlmoshea
     - bradleymiles17
+    - trojanutilities
+    - ahmedhassan05
   use_labels: true
   exclude_labels:
     - wip
