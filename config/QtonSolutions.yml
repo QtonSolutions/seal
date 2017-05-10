@@ -14,10 +14,9 @@ fsm:
     - karthikganta
     - markqton
     - paulfeaviour
-    - stephenlmoshea
-    - bradleymiles17
-    - trojanutilities
-    - ahmedhassan05
+    - alistairthomson
+    - owain-roberts
+    - sms-simonyoung
   use_labels: true
   exclude_labels:
     - wip
