@@ -1,22 +1,41 @@
 fsm:
-  channel: '#dev'
   members:
     - alanfreer
-    - akbarbaig
+    - alistairthomson
     - candicelauren
     - dylan-qton
+    - electricstrm
     - Flacky
-    - ilmaruk
-    - isocra
     - jamesrglover
     - johnline
     - jon-simmonds
     - karthikganta
+    - liammorrensms
     - markqton
     - paulfeaviour
-    - alistairthomson
+    - phlyk
     - owain-roberts
     - sms-simonyoung
+
+  channel: '#dev'
+
+  exclude_titles:
+    - DO NOT MERGE
+
   use_labels: true
+
   exclude_labels:
-    - wip
+    - wontfix
+
+xperiment:
+  members:
+    - phlyk
+    - jon-simmonds
+    - sandratichanovaite
+
+  channel: '#malteser-gate'
+
+  quotes:
+    - Let's get to the bottom of this!
+    - Keep calm and malteeeeseee
+    - "This is also just an experiment don't get worried. It's for the greater good :karthik:"
