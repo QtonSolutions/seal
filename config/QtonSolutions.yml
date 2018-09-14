@@ -1,21 +1,28 @@
 fsm:
   members:
     - alanfreer
-    - alistairthomson
     - candicelauren
+    - DanielTateSMS
+    - dwilson-sms
     - dylan-qton
     - electricstrm
-    - Flacky
-    - jamesrglover
+    - gordon-sms
+    - jdunn-sms
     - johnline
+    - jonathanyong81
     - jon-simmonds
+    - jose-aviles
     - karthikganta
+    - KasiaBM
     - liammorrensms
     - markqton
     - paulfeaviour
     - phlyk
     - owain-roberts
+    - rich-blockley-sms
+    - ryanbowensms
     - sms-simonyoung
+    - StuBez
 
   channel: '#dev'
 
@@ -26,16 +33,3 @@ fsm:
 
   exclude_labels:
     - wontfix
-
-xperiment:
-  members:
-    - phlyk
-    - jon-simmonds
-    - sandratichanovaite
-
-  channel: '#malteser-gate'
-
-  quotes:
-    - Let's get to the bottom of this!
-    - Keep calm and malteeeeseee
-    - "This is also just an experiment don't get worried. It's for the greater good :karthik:"
